@@ -27,3 +27,7 @@ Flutter based chat application using flutter & firebase and stream api.
 <img src="./snapshots/chats_page.jpeg" width="200"/>
 <img src="./snapshots/login_page.jpeg" width="200"/>
 <img src="./snapshots/sign_up_page.jpeg" width="200"/>
+
+## Download
+
+<a><button name="button" style = "color: blue; background: black" onclick="https://github.com/Sayyed-Salman/firechat/releases/download/v0.1/app-debug.apk">Download APK</button></a>
